@@ -13,15 +13,11 @@
 
 - 🤝 I’m looking for help with **Real-time Data Processing for IoT Devices**
 
-- 👨‍💻 All of my projects are available at [https://hunain-portfolio.netlify.app](https://hunain-portfolio.netlify.app)
-
 - 📝 I sometimes write articles on [Coding and AI](Coding and AI)
 
 - 💬 Ask me about **Next.js, React, Node or Angular**
 
 - 📫 How to reach me **hunaindev1@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hunaindev001/](https://www.linkedin.com/in/hunaindev001/)
 
 - ⚡ Fun fact **My mom said I'm handsome😉**
 

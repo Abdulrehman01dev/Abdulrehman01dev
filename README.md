@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Next.js, React, Node or Angular**
 
-- 📫 How to reach me **hunaindev1@gmail.com**
-
 - ⚡ Fun fact **My mom said I'm handsome😉**
 
 <h3 align="left">Languages and Tools:</h3>

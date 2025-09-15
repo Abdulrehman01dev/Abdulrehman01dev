@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 <img alt="coding" align="right" width="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
